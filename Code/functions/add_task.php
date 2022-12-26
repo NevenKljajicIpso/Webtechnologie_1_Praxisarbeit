@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   $db->query($sqlInsertTask);
 
   // redirect to the task overview page
-  header('Location: tasks.php');
+  header('Location: ../Main/tasks.php');
 }
 
 // close the database connection
