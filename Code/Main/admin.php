@@ -10,6 +10,7 @@
   <body>
     <nav>
       <h1>Admin</h1>
+      <h2><a href="tasks.php">TASKS</a><h2>
     </nav>    
 
     <main>
